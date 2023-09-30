@@ -1,0 +1,46 @@
+CSI244 week 1 (Tues):
+Visual Studio Tool + C#
+server side v client side
+
+*client side- code which is running on users device, aka front end or front facing
+
+*server side- code which runs on webserver, code is not freely available to client, aka back-end or back-facing
+
+*static file- static webfile doesnt request any code from webserver
+
+*dynamic webpage- uses server-side code to update pages delivered to client. EX: when manipulating urls, the url corresponds with a specific page. 
+
+*server- handles request and routes to resource. EX: urls
+
+*server-side languages: multiple languages can be ran on a server to host DYNAMIC WEBPAGE
+
+*ASP.NET- microsofts server side framework, uses c# as primary language, c# used in filtering and query database, one of many frameworks to be learned throughout career (.net is recommended as a starter framework)
+
+
+
+CSI248 week 1 (Tues):
+React (React Native) + iPhone + Azure + CommandLine + Powershell
+(Before class + On Sunday assignments + Graded Participation
++ Guided + Independent Activities Thru GitHub / Command Line)
+
+*React- javascript client side library, builds ui in declarative manner instead of reading line by line, meaning code runs when interacted with rather than waiting for interactions or reading non-interactions
+
+*Other libraries: Angular, created by Facebook, and Vue
+
+*Client side- clicks, submissions, keyboard presses. Where libraries come in is when being used to make changes without a full reload for effeciency. 
+Pros: filtering, updating data, and sorting without full reloads.
+Cons: not exactly secure, browser compatibility (most browsers are similar), hardware limitations 
+
+*Built on top of javascript: js is valid react code, make sure js foundation is strong. EX: arrowhead functions
+
+
+DO NOT PUT REACT FILES IN ONEDRIVE ( USE GITHUB )
+
+CSI248 week 1 (Thurs):
+Using Terminal (Powershell and Visual Studio)
+ctrl + j: terminal shortcut on visual studio
+
+
+
+
+
