@@ -1,0 +1,48 @@
+@font-face {
+  font-family: lol;
+  src: url(./Fonts/MarcellusSC-Regular.ttf);
+}
+
+.Marcellus {
+  font-family: lol;
+}
+.Header {
+  font-family: lol;
+  text-align: center;
+}
+.role {
+  font-family: lol;
+  /* text-align: center; */
+}
+.role-container {
+  text-align: center;
+}
+.lane {
+  font-family: lol;
+  /* text-align: center; */
+}
+.lane-container {
+  text-align: center;
+}
+button {
+  font-family: lol;
+  /* text-align: center; */
+}
+.details {
+  font-family: lol;
+  text-align: center;
+}
+.lockin {
+  text-align: center;
+  /* margin-left: auto;
+  margin-right: auto; */
+  /* margin: 0 auto; */
+}
+.CLI {
+  font-family: lol;
+  text-align: center;
+}
+.CLI-container {
+  margin-left: auto;
+  margin-right: auto;
+}
